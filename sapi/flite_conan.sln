@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cmulex", "cmulex\cmulex.vcxproj", "{CC82D26B-9B9C-4E75-83F8-05CB445C72F0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flite", "flite\flite.vcxproj", "{C8A762DF-2981-43E7-967D-1CD89CCA7F14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usenglish", "usenglish\usenglish.vcxproj", "{B8637186-90A9-446C-967A-02174180C23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Template|x64 = Template|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC82D26B-9B9C-4E75-83F8-05CB445C72F0}.Debug|x64.ActiveCfg = Debug|x64
+		{CC82D26B-9B9C-4E75-83F8-05CB445C72F0}.Debug|x64.Build.0 = Debug|x64
+		{CC82D26B-9B9C-4E75-83F8-05CB445C72F0}.Release|x64.ActiveCfg = Release|x64
+		{CC82D26B-9B9C-4E75-83F8-05CB445C72F0}.Release|x64.Build.0 = Release|x64
+		{CC82D26B-9B9C-4E75-83F8-05CB445C72F0}.Template|x64.ActiveCfg = Template|x64
+		{CC82D26B-9B9C-4E75-83F8-05CB445C72F0}.Template|x64.Build.0 = Template|x64
+		{C8A762DF-2981-43E7-967D-1CD89CCA7F14}.Debug|x64.ActiveCfg = Debug|x64
+		{C8A762DF-2981-43E7-967D-1CD89CCA7F14}.Debug|x64.Build.0 = Debug|x64
+		{C8A762DF-2981-43E7-967D-1CD89CCA7F14}.Release|x64.ActiveCfg = Release|x64
+		{C8A762DF-2981-43E7-967D-1CD89CCA7F14}.Release|x64.Build.0 = Release|x64
+		{C8A762DF-2981-43E7-967D-1CD89CCA7F14}.Template|x64.ActiveCfg = Template|x64
+		{C8A762DF-2981-43E7-967D-1CD89CCA7F14}.Template|x64.Build.0 = Template|x64
+		{B8637186-90A9-446C-967A-02174180C23F}.Debug|x64.ActiveCfg = Debug|x64
+		{B8637186-90A9-446C-967A-02174180C23F}.Debug|x64.Build.0 = Debug|x64
+		{B8637186-90A9-446C-967A-02174180C23F}.Release|x64.ActiveCfg = Release|x64
+		{B8637186-90A9-446C-967A-02174180C23F}.Release|x64.Build.0 = Release|x64
+		{B8637186-90A9-446C-967A-02174180C23F}.Template|x64.ActiveCfg = Template|x64
+		{B8637186-90A9-446C-967A-02174180C23F}.Template|x64.Build.0 = Template|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F936B716-6500-46E9-A03F-D99897F4308C}
+	EndGlobalSection
+EndGlobal
